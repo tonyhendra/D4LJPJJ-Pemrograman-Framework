@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pens.ac.id.HelloworldApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.225 sec - in pens.ac.id.HelloworldApplicationTests
